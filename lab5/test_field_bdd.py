@@ -2,7 +2,6 @@
 from field import field
 
 class FieldExtractionBDD:
-    """BDD-стиль тестирования без внешних фреймворков"""
     
     def given_sample_data(self):
         self.data = [
